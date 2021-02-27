@@ -1,0 +1,20 @@
+body {
+	margin-left: 50px;
+	font-size: 25px;
+}
+
+.paragraph:first-child {
+	text-decoration: line-through;
+}
+
+.paragraph:nth-child(2) {
+	text-decoration: overline;
+}
+
+.paragraph:nth-child(3) {
+	text-decoration: underline; 
+}
+
+.paragraph {
+	text-decoration: none;
+}

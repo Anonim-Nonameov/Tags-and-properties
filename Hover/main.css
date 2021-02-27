@@ -1,0 +1,27 @@
+body {
+	background-color: darkgray;
+}
+.hyper_link_button {
+	background-color: #333333;
+
+	width: 88px;
+	height: 30px;
+	position: relative;
+	bottom: -250px;
+	right: -550px;
+
+}
+.hyper_link {
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+}
+a:hover {
+	text-decoration: underline;
+	color: lightgray;
+}
+button:hover {
+		width: 176px;
+	height: 60px;
+
+}

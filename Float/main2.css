@@ -1,0 +1,108 @@
+div {
+    width: 70px;
+    height: 70px;
+    border: 2px solid darkgrey;
+    margin-bottom: 10px;
+}
+.div1 {
+    background: #900; /*maroon*/
+    width: 120px;
+    height: 120px;
+    float: right;
+    position: relative;
+}
+
+.container_1 {
+    width: 60px;
+    height: 60px;
+    background: orange;
+    position: absolute;
+}
+
+.div2 {
+    background: #000; /*black*/
+    width: 120px;
+    height: 120px;
+}
+
+.container_2 {
+    width: 60px;
+    height: 60px;
+    background: darkgreen;
+    /*position: absolute;*/
+    float: right;
+}
+
+.div3 {
+    background: #808; /*purple*/
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 340px;
+}
+.container_3 {
+    width: 60px;
+    height: 60px;
+    background: yellow;
+    position: absolute;
+}
+
+.div4 {
+    background: #00F; /*blue*/
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 210px;
+    float: right;
+}
+.container_4 {
+    width: 60px;
+    height: 60px;
+    background: pink;
+    /*position: absolute;*/
+    float: right;
+}
+.div5 {
+    background: #0F0; /*green*/
+    width: 120px;
+    height: 120px;
+    position: relative;
+    bottom: 250px;
+    right: 620px;
+}
+.container_5 {
+    background: red;
+    width: 35px;
+    height: 35px;
+    left: 15px;
+    top: 25px;
+    position: absolute;
+    float: right;
+}
+.container_6 {
+    background: grey;
+    width: 35px;
+    height: 35px;
+    left: 65px;
+    top: 25px;
+    position: absolute;
+    float: right;
+}
+.container_7 {
+    background: purple;
+    width: 35px;
+    height: 35px;
+    left: 15px;
+    top: 75px;
+    position: absolute;
+    float: right;
+}
+.container_8 {
+    background: orange;
+    width: 35px;
+    height: 35px;
+    left: 65px;
+    top: 75px;
+    position: absolute;
+    float: right;
+}
